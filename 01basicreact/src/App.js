@@ -1,9 +1,14 @@
 
+import Second from './second';
+import Third from './third';
 
 
 function App() {
   return (
-   <h2>ronak jatapara</h2>
+    <>
+   <Second />
+   <Third />
+   </>
   );
 }
 
